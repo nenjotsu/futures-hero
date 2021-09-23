@@ -6,6 +6,7 @@ try:
     import config
     import strategy_hybrid
     import strategy_heikin_ashi
+    import strategy_ema
     from datetime import datetime
     from termcolor import colored
     from binance.exceptions import BinanceAPIException
@@ -19,8 +20,9 @@ try:
     while True:
         try:
             for i in range(len(config.pair)):
-                if config.hybrid: strategy_hybrid.lets_make_some_money(i)
-                else: strategy_heikin_ashi.lets_make_some_money(i)
+                if config.strategy == 'strategy_hybrid': strategy_hybrid.lets_make_some_money(i)
+                if config.strategy == 'strategy_heikin_ashi': strategy_heikin_ashi.lets_make_some_money(i)
+                else: strategy_ema.lets_make_some_money(i)
 
         except (socket.timeout,
                 BinanceAPIException,

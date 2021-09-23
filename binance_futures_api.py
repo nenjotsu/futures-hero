@@ -1,6 +1,7 @@
 import os, time, config
 from binance.client import Client
 from termcolor import colored
+import math
 
 # Get environment variables
 api_key     = os.environ.get('BINANCE_KEY')
@@ -18,6 +19,7 @@ def change_margin_to_CROSSED(i)  : return client.futures_change_margin_type(symb
 def cancel_all_open_orders(i)    : return client.futures_cancel_all_open_orders(symbol=config.pair[i], timestamp=get_timestamp())
 def get_open_orders(i)           : return client.futures_get_open_orders(symbol=config.pair[i], timestamp=get_timestamp())
 def position_information(i)      : return client.futures_position_information(symbol=config.pair[i], timestamp=get_timestamp())[0]
+def futures_order_book(i)        : return client.futures_order_book(symbol=config.pair[i], limit=5)
 
 query = 300
 def KLINE_INTERVAL_1MINUTE(i)   : return client.futures_klines(symbol=config.pair[i], limit=query, interval=Client.KLINE_INTERVAL_1MINUTE)
@@ -37,12 +39,22 @@ def previous_volume(klines) : return float(klines[-2][5])
 def current_volume(klines)  : return float(klines[-1][5])
 def current_kline_timestamp(kline): return int(kline[-1][0])
 
+def truncate(number: float, digits: float) -> float:
+    stepper = float(10.0 ** digits)
+    return math.trunc(stepper * number) / stepper
+
 def open_position(i, position, amount):
     if position == "LONG":
-        if live_trade: client.futures_create_order(symbol=config.pair[i], side="BUY", type="MARKET", quantity=amount, timestamp=get_timestamp())
+        if live_trade:
+            try: client.futures_create_order(symbol=config.pair[i], side="BUY", type="MARKET", quantity=amount, timestamp=get_timestamp())
+            except Exception as e:
+                print(position,  " error: ", e)
         print(colored("ACTION           :   🚀 GO_LONG 🚀", "green"))
     if position == "SHORT":
-        if live_trade: client.futures_create_order(symbol=config.pair[i], side="SELL", type="MARKET", quantity=amount, timestamp=get_timestamp())
+        if live_trade:
+            try: client.futures_create_order(symbol=config.pair[i], side="SELL", type="MARKET", quantity=amount, timestamp=get_timestamp())
+            except Exception as e:
+                print(position,  " error: ", e)
         print(colored("ACTION           :   💥 GO_SHORT 💥", "red"))
 
 def throttle(i, position):
@@ -57,8 +69,8 @@ def throttle(i, position):
             if live_trade: client.futures_create_order(symbol=config.pair[i], side="SELL", type="MARKET", quantity=positionAmt, timestamp=get_timestamp())
             print("ACTION           :   🔥 THROTTLE_SHORT 🔥")
 
-def close_position(i,position):
-    positionAmt = float(position_information(i).get('positionAmt'))
+def close_position(i, position, positionAmt):
+    # positionAmt = float(position_information(i).get('positionAmt'))
     if position == "LONG":
         if live_trade: client.futures_create_order(symbol=config.pair[i], side="SELL", type="MARKET", quantity=abs(positionAmt), timestamp=get_timestamp())
         print("ACTION           :   💰 CLOSE_LONG 💰")

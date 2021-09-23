@@ -1,0 +1,3045 @@
+[!] ATOMUSDT - Created at : 19-09-2021 @ 19:51:57
+HTTPSConnectionPool(host='fapi.binance.com', port=443): Read timed out. (read timeout=10)
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:20
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:21
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:23
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:24
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:25
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:26
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:27
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:28
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:29
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:31
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:32
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:34
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:35
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:36
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:38
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:39
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:41
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:42
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:43
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:44
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:45
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:47
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:48
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:49
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:51
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:52
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:53
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:54
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:55
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:57
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:58
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:35:59
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:01
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:02
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:04
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:05
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:06
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:08
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:09
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:10
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:11
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:13
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:14
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:16
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:17
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:18
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:20
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:21
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:22
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:24
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:25
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:26
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:28
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:29
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:30
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:31
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:36
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:38
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:39
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:41
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:43
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:44
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:45
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:46
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:47
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:49
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:50
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:51
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:52
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:53
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:54
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:56
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:57
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:58
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:36:59
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:01
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:05
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:07
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:08
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:10
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:11
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:13
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:16
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:17
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:19
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:21
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:22
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:26
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:27
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:28
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:29
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:31
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:32
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:34
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:35
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:37
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:38
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:39
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:41
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:42
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:43
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:45
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:46
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:47
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:49
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:50
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:51
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:52
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:54
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:55
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:56
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:57
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:37:59
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:00
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:01
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:03
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:04
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:05
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:07
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:08
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:09
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:11
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:12
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:14
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:16
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:17
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:18
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:19
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:21
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:22
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:23
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:25
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:26
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:27
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:28
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:30
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:31
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:32
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:34
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:35
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:36
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:38
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:39
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:40
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:42
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:43
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:44
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:46
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:47
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:48
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:50
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:51
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:52
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:53
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:55
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:56
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:58
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:38:59
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:00
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:01
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:02
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:04
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:05
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:07
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:08
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:10
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:11
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:12
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:13
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:15
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:16
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:17
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:18
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:20
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:21
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:22
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:23
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:25
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:26
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:27
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:29
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:30
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:31
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:32
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:34
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:35
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:36
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:38
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:39
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:40
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:41
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:43
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:44
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:45
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:47
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:48
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:49
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:51
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:52
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:54
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:55
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:56
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:58
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:39:59
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:00
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:02
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:05
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:06
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:07
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:09
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:10
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:11
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:12
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:14
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:15
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:16
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:17
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:19
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:20
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:21
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:23
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:24
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:25
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:27
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:28
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:29
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:31
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:32
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:33
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:35
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:36
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:37
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:38
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:40
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:41
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:42
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:43
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:45
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:46
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:47
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:49
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:50
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:51
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:53
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:54
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:55
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:57
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:40:59
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:00
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:02
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:04
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:05
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:07
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:08
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:09
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:11
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:12
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:13
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:15
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:16
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:17
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:18
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:20
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:21
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:23
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:24
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:26
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:27
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:28
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:30
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:31
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:32
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:34
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:35
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:37
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:38
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:39
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:41
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:42
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:43
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:45
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:46
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:48
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:49
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:50
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:52
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:53
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:54
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:56
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:41:58
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:00
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:01
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:03
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:04
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:05
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:06
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:07
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:09
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:10
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:11
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:12
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:14
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:15
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:16
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:17
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:19
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:20
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:21
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:22
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:23
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:25
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:26
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:27
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:28
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:30
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:31
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:33
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:34
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:35
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:36
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:38
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:39
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:40
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:41
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:43
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:44
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:45
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:46
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:47
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:49
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:50
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:51
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:52
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:54
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:56
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:57
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:42:59
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:00
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:01
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:03
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:04
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:05
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:07
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:08
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:09
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:10
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:12
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:13
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:14
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:16
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:17
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:18
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:19
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:21
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:22
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:24
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:25
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:27
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:28
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:29
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:31
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:32
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:33
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:34
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:36
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:37
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:39
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:40
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:41
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:43
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:44
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:45
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:46
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:48
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:49
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:51
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:52
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:54
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:56
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:58
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:43:59
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:00
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:02
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:03
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:04
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:06
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:07
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:08
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:10
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:11
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:12
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:13
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:14
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:16
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:17
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:18
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:19
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:20
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:22
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:23
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:25
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:26
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:27
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:29
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:30
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:31
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:32
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:33
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:34
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:35
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:37
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:38
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:40
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:41
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:42
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:43
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:44
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:46
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:47
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:48
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:49
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:51
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:52
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:53
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:55
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:57
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:44:59
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:00
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:01
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:03
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:04
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:06
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:07
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:08
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:10
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:11
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:12
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:13
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:14
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:16
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:17
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:18
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:20
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:21
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:22
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:24
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:25
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:26
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:27
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:29
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:30
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:31
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:33
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:34
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:35
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:37
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:38
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:39
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:41
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:42
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:43
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:45
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:46
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:47
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:49
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:51
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:52
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:54
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:55
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:56
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:57
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:45:58
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:00
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:01
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:02
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:03
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:04
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:06
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:07
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:08
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:09
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:11
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:12
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:13
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:14
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:16
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:21
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:23
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:24
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:26
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:27
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:28
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:29
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:31
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:32
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:33
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:34
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:36
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:37
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:39
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:40
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:41
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:42
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:44
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:45
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:47
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:49
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:50
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:51
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:53
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:54
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:55
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:56
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:58
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:46:59
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:00
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:02
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:03
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:04
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:05
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:06
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:08
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:09
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:10
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:11
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:13
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:14
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:15
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:16
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:18
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:19
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:21
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:22
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:23
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:25
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:26
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:28
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:29
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:30
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:31
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:32
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:33
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:34
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:36
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:37
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:38
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:40
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:41
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:42
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:43
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:45
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:47
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:48
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:50
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:51
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:53
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:54
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:56
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:57
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:47:59
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:00
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:01
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:03
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:04
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:06
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:07
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:09
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:10
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:11
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:13
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:14
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:15
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:16
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:18
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:19
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:20
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:21
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:23
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:24
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:25
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:26
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:27
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:29
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:30
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:31
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:32
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:34
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:35
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:36
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:37
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:38
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:40
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:41
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:43
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:44
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:46
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:47
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:48
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:50
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:51
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:52
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:54
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:55
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:56
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:57
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:48:59
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:00
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:01
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:03
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:04
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:06
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:07
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:08
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:09
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:11
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:12
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:13
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:14
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:16
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:17
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:18
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:20
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:21
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:22
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:24
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:25
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:26
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:27
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:29
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:30
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:31
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:32
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:34
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:36
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:37
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:38
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:40
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:42
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:43
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:45
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:46
+''
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:51
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:53
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:55
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:56
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:49:59
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:00
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:01
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:03
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:04
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:05
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:07
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:08
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:09
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:11
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:12
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:14
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:19
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:20
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:21
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:22
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:24
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:26
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:27
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:29
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:30
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:31
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:33
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:34
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:35
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:37
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:38
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:39
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:40
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:43
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:44
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:46
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:47
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:48
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:50
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:51
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:52
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:54
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:55
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:57
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:58
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:50:59
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:01
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:02
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:04
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:05
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:07
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:08
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:09
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:11
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:12
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:13
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:15
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:16
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:17
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:19
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:20
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:21
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:23
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:24
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:25
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:27
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:28
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:29
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:31
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:33
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:34
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:35
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:37
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:38
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:40
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:41
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:43
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:45
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:47
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:48
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:50
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:51
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:52
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:54
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:55
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:56
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:58
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:51:59
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:00
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:02
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:03
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:04
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:06
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:07
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:08
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:09
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:11
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:12
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:13
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:15
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:16
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:17
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:19
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:20
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:21
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:22
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:24
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:25
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:27
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:28
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:29
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:31
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:32
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:33
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:35
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:36
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:37
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:40
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:42
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:43
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:45
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:46
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:48
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:49
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:50
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:51
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:53
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:54
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:55
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:56
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:57
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:52:59
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:00
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:01
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:03
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:04
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:05
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:06
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:07
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:09
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:10
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:11
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:13
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:14
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:15
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:17
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:18
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:19
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:21
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:22
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:23
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:25
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:26
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:28
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:29
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:30
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:32
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:34
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:35
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:36
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:38
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:39
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:40
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:42
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:43
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:45
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:46
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:47
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:48
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:49
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:51
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:52
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:54
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:55
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:56
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:57
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:53:59
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:00
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:01
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:02
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:04
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:05
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:06
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:08
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:09
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:10
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:12
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:13
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:14
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:16
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:17
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:18
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:20
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:21
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:22
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:24
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:25
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:26
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:28
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:29
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:30
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:33
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:34
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:35
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:37
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:38
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:41
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:42
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:43
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:45
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:46
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:48
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:49
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:50
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:52
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:53
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:54
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:55
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:57
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:58
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:54:59
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:01
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:02
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:03
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:04
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:06
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:07
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:08
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:09
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:11
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:12
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:13
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:14
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:16
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:17
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:19
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:20
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:21
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:22
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:24
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:25
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:26
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:28
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:29
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:31
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:32
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:34
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:35
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:37
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:38
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:40
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:42
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:43
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:44
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:45
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:46
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:48
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:49
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:50
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:52
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:53
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:55
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:56
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:57
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:55:59
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:00
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:01
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:02
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:04
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:05
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:06
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:08
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:09
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:10
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:12
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:13
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:14
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:15
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:17
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:18
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:19
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:20
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:22
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:23
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:24
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:25
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:28
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:29
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:30
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:31
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:33
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:34
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:35
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:37
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:39
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:40
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:41
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:43
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:44
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:45
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:46
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:48
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:49
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:51
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:52
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:53
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:54
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:56
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:57
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:56:58
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:00
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:01
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:03
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:04
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:05
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:06
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:08
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:09
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:11
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:12
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:13
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:14
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:16
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:17
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:18
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:19
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:20
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:22
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:24
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:26
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:27
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:28
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:30
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:31
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:32
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:34
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:35
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:36
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:37
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:39
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:40
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:41
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:43
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:44
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:45
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:46
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:48
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:49
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:50
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:51
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:53
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:54
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:55
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:57
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:57:58
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:58:00
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:58:01
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:58:02
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:58:04
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:58:05
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:58:06
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:58:07
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:58:09
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:58:10
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:58:11
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:58:13
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:58:14
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:58:15
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:58:17
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:58:19
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:58:21
+'gray'
+
+[!] ATOMUSDT - Created at : 20-09-2021 @ 09:58:22
+'gray'
+
+[!] ATOMUSDT - Created at : 23-09-2021 @ 21:57:52
+'code'
+

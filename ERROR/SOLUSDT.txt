@@ -1,0 +1,1014 @@
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:03
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:04
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:05
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:06
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:06
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:08
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:09
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:10
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:11
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:12
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:13
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:13
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:15
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:16
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:17
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:17
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:19
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:19
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:21
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:21
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:22
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:23
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:24
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:25
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:26
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:27
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:28
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:29
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:30
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:30
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:31
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:32
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:33
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:34
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:35
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:36
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:37
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:38
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:39
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:39
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:41
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:41
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:42
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:43
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:44
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:45
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:46
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:46
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:47
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:48
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:49
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:50
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:50
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:51
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:52
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:53
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:54
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:55
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:56
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:56
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:57
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:58
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:08:59
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:00
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:01
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:02
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:02
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:04
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:04
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:05
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:06
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:07
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:08
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:09
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:10
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:10
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:11
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:12
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:13
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:14
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:15
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:16
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:17
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:17
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:18
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:20
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:20
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:21
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:22
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:23
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:24
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:25
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:26
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:27
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:28
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:28
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:29
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:30
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:31
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:32
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:33
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:34
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:34
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:35
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:36
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:37
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:38
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:38
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:40
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:40
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:41
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:42
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:43
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:43
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:44
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:45
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:46
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:47
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:47
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:49
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:49
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:50
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:51
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:52
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:53
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:54
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:55
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:56
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:56
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:57
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:58
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:09:59
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:00
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:01
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:01
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:03
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:03
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:04
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:05
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:06
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:07
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:08
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:08
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:09
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:10
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:11
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:11
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:13
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:14
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:14
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:15
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:17
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:18
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:18
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:19
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:20
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:21
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:22
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:23
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:23
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:24
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:25
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:26
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:27
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:28
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:29
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:30
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:31
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:32
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:33
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:34
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:34
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:35
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:36
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:37
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:38
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:39
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:39
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:40
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:41
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:42
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:43
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:44
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:45
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:45
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:46
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:47
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:48
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:49
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:50
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:51
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:52
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:52
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:53
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:55
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:10:55
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:00
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:01
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:02
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:03
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:04
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:05
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:06
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:07
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:08
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:09
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:09
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:10
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:11
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:12
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:13
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:14
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:14
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:15
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:16
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:17
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:18
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:19
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:20
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:21
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:22
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:23
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:24
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:24
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:26
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:27
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:28
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:29
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:30
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:31
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:32
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:33
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:33
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:34
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:35
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:36
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:37
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:37
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:38
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:39
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:40
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:41
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:42
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:42
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:43
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:44
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:45
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:46
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:46
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:48
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:49
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:49
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:50
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:51
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:52
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:53
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:54
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:55
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:56
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:11:59
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:12:00
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:13:27
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:13:27
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:13:28
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:13:29
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:13:29
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:13:31
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:13:31
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:13:32
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:13:33
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:13:33
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:13:34
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:13:35
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:13:36
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:13:37
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:13:38
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:13:39
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:14:13
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:14:14
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:14:15
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:14:15
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:14:17
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:14:17
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:14:19
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:14:19
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:17:27
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:17:28
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:17:29
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:17:29
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:17:30
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:20:18
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:20:19
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:20:20
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:20:21
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:20:21
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:20:22
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 19-09-2021 @ 14:20:23
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:10
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:11
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:12
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:13
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:14
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:15
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:17
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:19
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:20
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:22
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:23
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:24
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:25
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:27
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:28
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:29
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:30
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:32
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:38
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:39
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:40
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:41
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:43
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:44
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:45
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:46
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:47
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:49
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:50
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:51
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:52
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:54
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:55
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:56
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:57
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:58
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:09:59
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:10:01
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:10:02
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:10:03
+'bb_percent'
+
+[!] SOLUSDT - Created at : 23-09-2021 @ 14:10:05
+'bb_percent'
+

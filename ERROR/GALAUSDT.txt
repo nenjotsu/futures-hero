@@ -1,0 +1,1236 @@
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:05
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:06
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:06
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:07
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:08
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:08
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:09
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:10
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:10
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:11
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:12
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:13
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:13
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:14
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:15
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:16
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:18
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:18
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:19
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:20
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:21
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:23
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:23
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:24
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:25
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:26
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:27
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:28
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:29
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:29
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:30
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:31
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:32
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:33
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:34
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:35
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:36
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:37
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:37
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:38
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:39
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:40
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:41
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:42
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:43
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:44
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:45
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:45
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:46
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:47
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:48
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:49
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:50
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:51
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:52
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:53
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:54
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:55
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:55
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:03:57
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:00
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:01
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:01
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:02
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:03
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:03
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:04
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:05
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:05
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:06
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:07
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:07
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:08
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:09
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:10
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:10
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:11
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:12
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:12
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:13
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:14
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:15
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:16
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:17
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:18
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:19
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:20
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:21
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:22
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:22
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:24
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:25
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:25
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:26
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:27
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:29
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:29
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:30
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:31
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:32
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:33
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:34
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:35
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:36
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:36
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:37
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:38
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:39
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:40
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:41
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:41
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:42
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:43
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:44
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:45
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:46
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:47
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:48
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:49
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:50
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:50
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:51
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:52
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:53
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:54
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:55
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:56
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:56
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:57
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:58
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:04:59
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:00
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:01
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:02
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:03
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:04
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:05
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:06
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:06
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:07
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:08
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:09
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:10
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:11
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:12
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:13
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:15
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:16
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:17
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:17
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:19
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:19
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:20
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:21
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:22
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:23
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:23
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:24
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:25
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:26
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:26
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:27
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:28
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:29
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:29
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:30
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:31
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:32
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:32
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:33
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:34
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:35
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:36
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:37
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:38
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:38
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:39
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:40
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:41
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:42
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:43
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:44
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:44
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:45
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:46
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:47
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:48
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:49
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:49
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:50
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:51
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:52
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:53
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:54
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:54
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:55
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:56
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:57
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:58
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:05:59
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:00
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:00
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:01
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:02
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:03
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:04
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:05
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:06
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:06
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:07
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:08
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:09
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:10
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:11
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:12
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:13
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:13
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:14
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:15
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:17
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:17
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:18
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:19
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:20
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:21
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:22
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:25
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:26
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:26
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:27
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:28
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:29
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:29
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:30
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:31
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:32
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:33
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:33
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:34
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:35
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:36
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:36
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:37
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:38
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:39
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:39
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:40
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:41
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:42
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:43
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:44
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:45
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:46
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:47
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:48
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:49
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:50
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:51
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:52
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:53
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:54
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:55
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:56
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:57
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:58
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:06:59
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:00
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:01
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:02
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:03
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:04
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:04
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:05
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:06
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:07
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:08
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:09
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:10
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:11
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:12
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:13
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:15
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:16
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:17
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:17
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:18
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:19
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:20
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:21
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:22
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:23
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:24
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:25
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:26
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:27
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:28
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:29
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:29
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:30
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:31
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:32
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:33
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:34
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:35
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:36
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:37
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:38
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:39
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:40
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:41
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:42
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:46
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:47
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:47
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:07:48
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:01
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:02
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:02
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:03
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:04
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:04
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:05
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:06
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:07
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:08
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:08
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:09
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:10
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:10
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:11
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:12
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:12
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:13
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:14
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:15
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:15
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:16
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:17
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:18
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:19
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:19
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:20
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:21
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:22
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:23
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:24
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:24
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:25
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:26
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:27
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:28
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:29
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:29
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:30
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:31
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:32
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:33
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:33
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:34
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:35
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:36
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:37
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:38
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:39
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:39
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:40
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:41
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:42
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:43
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:44
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:44
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:45
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:46
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:47
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:48
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:49
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:50
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:50
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:51
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:52
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:53
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:54
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:55
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:55
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:56
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:57
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:58
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:59
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:08:59
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:09:00
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:09:01
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:09:02
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:09:03
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:09:04
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:09:05
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:09:06
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:09:07
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:09:08
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:09:09
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:09:11
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:09:11
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:09:12
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:09:13
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:09:14
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:09:15
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:09:16
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:09:17
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:09:18
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:09:19
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:09:20
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:09:21
+APIError(code=-4028): Leverage 30 is not valid
+
+[!] GALAUSDT - Created at : 19-09-2021 @ 19:09:21
+APIError(code=-4028): Leverage 30 is not valid
+

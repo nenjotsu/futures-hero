@@ -47,6 +47,11 @@ def profit_or_loss(response, taker_maker_fees):
     unRealizedProfit = round(float(response.get('unRealizedProfit')), 2)
     breakeven_USDT   = (markPrice * positionAmt * taker_maker_fees) / 100
 
+    # print("markPrice", markPrice)
+    # print("positionAmt", positionAmt)
+    # print("unRealizedProfit", unRealizedProfit)
+    # print("breakeven_USDT", breakeven_USDT)
+
     if unRealizedProfit > breakeven_USDT: return "PROFIT"
     else: return "LOSS"
 
